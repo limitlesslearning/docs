@@ -10,6 +10,7 @@ vite.config.ts.timestamp-*
 .sveltepress
 dist
 .vscode
-.historyhome-page.png
+.history
+home-page.png
 section-*.png
 .playwright-mcp
