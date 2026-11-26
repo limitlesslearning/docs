@@ -1,0 +1,58 @@
+name: Content proposal
+description: Propose new or revised Platform Bible documentation
+title: "[Content]: "
+labels: ["content"]
+body:
+  - type: dropdown
+    id: section
+    attributes:
+      label: Related Bible section
+      description: Which Platform Bible section does this proposal affect?
+      options:
+        - "1. Front Matter"
+        - "2. Vision, Mission & Principles"
+        - "3. Problems"
+        - "4. Solution"
+        - "5. Knowledge Graph"
+        - "6. Content System"
+        - "7. Learning Experience"
+        - "8. Assessment"
+        - "9. Credentials"
+        - "10. Verification & Integrity"
+        - "11. Incentive & Economy"
+        - "12. Technology Stack"
+        - "13. Project Structure"
+        - "14. Phased Roadmap"
+        - "15. Governance"
+        - "16. Risks"
+        - "17. Legal & IP"
+        - "18. Impact & KPIs"
+        - "19. Glossary"
+        - "20. Appendices"
+        - "Other / cross-cutting"
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Proposal summary
+      description: What should change, and why?
+      placeholder: Describe the addition or revision in plain language.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: Link or quote any draft material, research, or prior discussion. Do not invent statistics.
+    validations:
+      required: false
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I will not invent facts or numbers not supported by sources
+          required: true
+        - label: Open questions will be labelled as questions, not decisions
+          required: true

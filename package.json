@@ -1,0 +1,27 @@
+{
+  "name": "@limitlesslearning/docs",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT",
+  "description": "Public documentation site for Limitless Learning",
+  "packageManager": "pnpm@10.33.4",
+  "engines": {
+    "node": ">=22.17"
+  },
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "prepare": "svelte-kit sync || echo ''"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-static": "^4.0.0",
+    "@sveltejs/kit": "^3.0.0",
+    "@sveltejs/vite-plugin-svelte": "^7.3.1",
+    "@sveltepress/theme-default": "^8.12.0",
+    "@sveltepress/vite": "^1.10.0",
+    "@types/node": "^24.19.1",
+    "svelte": "^5.57.1",
+    "vite": "^8.3.2"
+  }
+}
