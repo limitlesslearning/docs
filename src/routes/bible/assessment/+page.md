@@ -9,7 +9,7 @@ Final Draft v1.0 — Ready for Review (from Platform Bible source).
 
 ## 8.1 Competency-Based Rules
 
-Progression in Limitless is governed by one unbreakable rule: you advance only when you demonstrate mastery — never by time spent, age, attendance, or any demographic factor (Section 2.4.4).
+Progression in Klados is governed by one unbreakable rule: you advance only when you demonstrate mastery — never by time spent, age, attendance, or any demographic factor (Section 2.4.4).
 
 ### Mastery threshold (non-negotiable for all levels)
 

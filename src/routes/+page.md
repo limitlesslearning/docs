@@ -1,8 +1,6 @@
 ---
-title: Limitless Learning
 description: A free, open-source global knowledge graph with mastery-based progression and verifiable credentials linked to jobs.
 tagline: A free, open-source, and unlimited global knowledge graph that doesn't have any boundaries, replacing traditional degrees with verified mastery to directly connect every learner to real-world employment.
-heroImage: /sveltepress@3x.png
 badge:
   text: 'Phase 0 — Documentation'
   link: /roadmap/
@@ -63,7 +61,7 @@ features:
 
 Every human being — regardless of age, gender, ethnicity, financial status, family background, nationality, or prior education — should be able to access, master, and prove mastery of any knowledge or skill at any time in their life.
 
-By 2035, Limitless aims to function as a universal education layer: open, borderless, and adaptable, continuously evolving through community governance and real-world partnerships.
+By 2035, Klados aims to function as a universal education layer: open, borderless, and adaptable, continuously evolving through community governance and real-world partnerships.
 
 We replace the question “Which school did you attend?” with: **“What can you do?”**
 
@@ -83,7 +81,8 @@ We replace the question “Which school did you attend?” with: **“What can y
 - [Development roadmap](/roadmap/) — Phase 0 through Phase 4
 - [Documentation status](/status/) — which Bible sections are drafted
 - [Decision log](/decisions/) — locked project decisions
+- [Brand guide](/brand/) — the Branch Out mark and how to use it
 
 :::note[About this site]
-This documentation is the public Platform Bible for Limitless Learning (v1.0 living draft). Site **code** is MIT; documentation **content** is [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). See [LICENSE](https://github.com/limitlesslearning/docs/blob/main/LICENSE) and [LICENSE-CONTENT](https://github.com/limitlesslearning/docs/blob/main/LICENSE-CONTENT).
+This documentation is the public Platform Bible for Klados (v1.0 living draft). Site **code** is MIT; documentation **content** is [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). See [LICENSE](https://github.com/limitlesslearning/docs/blob/main/LICENSE) and [LICENSE-CONTENT](https://github.com/limitlesslearning/docs/blob/main/LICENSE-CONTENT).
 :::

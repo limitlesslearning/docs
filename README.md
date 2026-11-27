@@ -1,10 +1,18 @@
-# Limitless Learning Docs
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/brand/lockup-horizontal-inverse.svg">
+    <img src="assets/brand/lockup-horizontal-ink.svg" alt="Klados" height="64">
+  </picture>
+</p>
 
-Public documentation site for **Limitless Learning** — a free-for-learners, open-source global knowledge graph with mastery-based progression and verifiable credentials linked to jobs.
+# Klados Docs
+
+Public documentation site for **Klados** — a free-for-learners, open-source global knowledge graph with mastery-based progression and verifiable credentials linked to jobs.
 
 - **Live site (planned):** [https://limitlesslearning.github.io/docs/](https://limitlesslearning.github.io/docs/)
 - **Source of truth:** Platform Bible v1.0 (living draft)
 - **Built with:** [Sveltepress](https://sveltepress.site/) `@sveltepress/vite` 1.10.x + default theme
+- **Logo use:** [docs/brand/USAGE.md](./docs/brand/USAGE.md) · [Brand guide](./docs/brand/BRAND.md)
 
 ## Licenses
 
@@ -35,7 +43,11 @@ Build output is written to `dist/`.
 ## Project layout
 
 ```
-src/routes/           # Markdown pages (home, bible sections, roadmap, status, decisions)
+assets/brand/         # Branch Out mark and lockups
+docs/brand/           # Brand guide, logo usage, license note
+src/lib/site.ts       # Public product name (SITE_NAME)
+src/routes/           # Markdown pages (home, bible, roadmap, status, decisions, brand)
+static/               # Favicon, app icons, manifest, og-image
 vite.config.ts        # Sveltepress + default theme + static adapter
 .github/workflows/    # GitHub Pages deploy
 ```

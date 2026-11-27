@@ -7,9 +7,9 @@ description: The graph paradigm shift, unique value propositions, why the combin
 Final Draft v1.0 — Ready for Review (from Platform Bible source).
 :::
 
-## 4.1 The Limitless Paradigm Shift
+## 4.1 The Klados Paradigm Shift
 
-Traditional education organizes learning as a linear sequence (age → fixed courses → semesters → degrees). Limitless reorganizes it as a dynamic, living knowledge graph.
+Traditional education organizes learning as a linear sequence (age → fixed courses → semesters → degrees). Klados reorganizes it as a dynamic, living knowledge graph.
 
 Every piece of knowledge becomes a node (concept, skill, or module) with explicit dependency edges. Progression is driven solely by demonstrated mastery, not time or arbitrary prerequisites.
 
@@ -28,9 +28,9 @@ The result is not an incremental improvement — it is a complete replacement of
 
 ## 4.2 Unique Value Propositions
 
-Limitless is the only platform that combines all of the following in one open-source, learner-free system:
+Klados is the only platform that combines all of the following in one open-source, learner-free system:
 
-| Feature | Traditional Systems | Existing Ed-Tech (Khan, Coursera, etc.) | Limitless |
+| Feature | Traditional Systems | Existing Ed-Tech (Khan, Coursera, etc.) | Klados |
 | --- | --- | --- | --- |
 | Progression model | Time/age-based | Course completion | Pure competency (mastery proof) |
 | Knowledge structure | Siloed courses | Linear playlists | Global dependency graph |
@@ -42,11 +42,11 @@ Limitless is the only platform that combines all of the following in one open-so
 | Governance | Top-down | Company-controlled | Autonomous community + continuous evolution |
 | Real-world linkage | Weak | Job boards | Native job profiles + direct hiring pipelines |
 
-No other platform offers this exact combination. Competitors digitize the old model; Limitless replaces the model itself.
+No other platform offers this exact combination. Competitors digitize the old model; Klados replaces the model itself.
 
 ## 4.3 Why This Specific Combination Works
 
-The power of Limitless comes from the deliberate synergy of its core components:
+The power of Klados comes from the deliberate synergy of its core components:
 
 ### 4.3.1 YouTube + Open Content First (MVP Strategy)
 
@@ -79,5 +79,5 @@ Every part of the system — graph, policies, tech stack, roles, permissions —
 This is not theory. Every technical and economic choice has been reverse-engineered from the problems in Section 3 and the principles in Section 2. The combination is unique, feasible with 2026 technology, and deliberately designed to grow into the universal education layer described in the vision.
 
 :::note[From notebook discussion — known limitations]
-Even with this design, Limitless still faces hard execution risks that Section 16 should expand: AI error propagation into the graph, algorithmic bias (e.g. transcription across accents), cold-start personalization, over-adaptation to preferred modalities, physical infrastructure monopolies for labs, and privacy obligations around behavioral signals. Mitigations discussed include human-in-the-loop review, bias audits, transfer learning for new learners, controlled modality “stretch” assignments, MoU-based lab partnerships, granular consent, and differential privacy. These are open engineering/governance workstreams — not claims that the issues are already solved.
+Even with this design, Klados still faces hard execution risks that Section 16 should expand: AI error propagation into the graph, algorithmic bias (e.g. transcription across accents), cold-start personalization, over-adaptation to preferred modalities, physical infrastructure monopolies for labs, and privacy obligations around behavioral signals. Mitigations discussed include human-in-the-loop review, bias audits, transfer learning for new learners, controlled modality “stretch” assignments, MoU-based lab partnerships, granular consent, and differential privacy. These are open engineering/governance workstreams — not claims that the issues are already solved.
 :::

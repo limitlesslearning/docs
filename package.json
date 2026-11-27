@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "license": "MIT",
-  "description": "Public documentation site for Limitless Learning",
+  "description": "Public documentation site for Klados",
   "packageManager": "pnpm@10.33.4",
   "engines": {
     "node": ">=22.17"

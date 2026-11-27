@@ -1,9 +1,9 @@
 ---
 title: Development Roadmap
-description: Phase 0 documentation through Phase 4 global scale for Limitless Learning.
+description: Phase 0 documentation through Phase 4 global scale for Klados.
 ---
 
-Limitless is built in deliberate phases. The immediate focus is Phase 0 (this documentation site) and a lean Phase 1 MVP in Computer Science and Mathematics.
+Klados is built in deliberate phases. The immediate focus is Phase 0 (this documentation site) and a lean Phase 1 MVP in Computer Science and Mathematics.
 
 ## Phase 0 — Documentation & Foundation (current)
 
@@ -47,10 +47,10 @@ Once MVP hiring outcomes are proven:
 
 - Sponsored practical-lab partnerships (wet labs, robotics, manufacturing)
 - Official Course Profiles recognized by governments and universities
-- Solidify Limitless as a universal education layer bridging digital and physical learning
+- Solidify Klados as a universal education layer bridging digital and physical learning
 
 :::note[From notebook discussion]
-Immediate focus should stay on Phase 1: graph database, AI ingestion/assessment, peer review, and corporate Job Profiles for CS + Math. Prove that a “Limitless Level 15” hire can outperform traditional screening before expanding horizontally.
+Immediate focus should stay on Phase 1: graph database, AI ingestion/assessment, peer review, and corporate Job Profiles for CS + Math. Prove that a “Klados Level 15” hire can outperform traditional screening before expanding horizontally.
 :::
 
 ## Related

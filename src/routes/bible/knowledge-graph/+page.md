@@ -9,7 +9,7 @@ Final Draft v1.0 — Ready for Review (from Platform Bible source).
 
 ## 5.1 Graph Design Philosophy
 
-The entire Limitless platform is built around one central data structure: a single, living, global knowledge graph.
+The entire Klados platform is built around one central data structure: a single, living, global knowledge graph.
 
 This is not a collection of separate courses or playlists. It is the digital representation of all human knowledge as a network of interconnected concepts. Every node is a precise unit of mastery; every edge is an explicit prerequisite relationship.
 
