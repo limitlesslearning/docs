@@ -3,6 +3,7 @@ import { vitePreprocess } from '@sveltejs/vite-plugin-svelte'
 import { defaultTheme } from '@sveltepress/theme-default'
 import { sveltepress } from '@sveltepress/vite'
 import { defineConfig } from 'vite'
+import { SITE_DESCRIPTION, SITE_NAME } from './src/lib/site.ts'
 
 const base = process.env.BASE_PATH ?? ''
 
@@ -15,6 +16,7 @@ const config = defineConfig({
 					{ title: 'Roadmap', to: '/roadmap/' },
 					{ title: 'Status', to: '/status/' },
 					{ title: 'Decisions', to: '/decisions/' },
+					{ title: 'Brand', to: '/brand/' },
 					{
 						title: 'GitHub',
 						to: 'https://github.com/limitlesslearning/docs',
@@ -75,12 +77,21 @@ const config = defineConfig({
 						{ title: 'Documentation Status', to: '/status/' },
 					],
 					'/decisions/': [
-						{ title: 'Decision Log', to: '/decisions/' },
+						{ title: 'Decision log', to: '/decisions/' },
+					],
+					'/brand/': [
+						{ title: 'Brand guide', to: '/brand/' },
+						{ title: 'Using the logo', to: '/brand/usage/' },
+						{ title: 'License note', to: '/brand/license/' },
 					],
 				},
 				github: 'https://github.com/limitlesslearning/docs',
-				logo: '/sveltepress.svg',
+				logo: '/brand/mark-ink.svg',
 				editLink: 'https://github.com/limitlesslearning/docs/edit/main/src/routes/',
+				themeColor: {
+					light: '#F4F6FB',
+					dark: '#1F2A44',
+				},
 				preBuildIconifyIcons: {
 					'material-symbols': [
 						'menu-book-outline',
@@ -96,9 +107,8 @@ const config = defineConfig({
 				},
 			}),
 			siteConfig: {
-				title: 'Limitless Learning',
-				description:
-					'A free, open-source, and unlimited global knowledge graph that doesn\'t have any boundaries, replacing traditional degrees with verified mastery to directly connect every learner to real-world employment.',
+				title: SITE_NAME,
+				description: SITE_DESCRIPTION,
 			},
 			svelteKitOptions: {
 				preprocess: [vitePreprocess()],

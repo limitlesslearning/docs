@@ -33,7 +33,7 @@ DEFINE FIELD issued_at ON credential TYPE datetime DEFAULT time::now();
 - Revocation possible only by the learner (e.g., if they want to hide an old low score) — the blockchain hash still proves the original record existed.
 - No central authority can revoke or alter a credential.
 
-This design makes credentials stronger than traditional degrees: instantly verifiable by any employer or institution without contacting Limitless.
+This design makes credentials stronger than traditional degrees: instantly verifiable by any employer or institution without contacting Klados.
 
 ## 9.2 Learner Public Profile
 
@@ -60,7 +60,7 @@ UI Implementation (SvelteKit): Clean dashboard with Cytoscape mini-graph showing
 
 ## 9.3 Course Profiles (High-School, Degree Equivalents)
 
-Course Profiles are community-defined, version-controlled templates that map the knowledge graph to traditional qualifications. They allow institutions to adopt Limitless without rebuilding their systems.
+Course Profiles are community-defined, version-controlled templates that map the knowledge graph to traditional qualifications. They allow institutions to adopt Klados without rebuilding their systems.
 
 ### Structure
 
@@ -115,7 +115,7 @@ All exports include the blockchain hash for instant third-party verification.
 
 ### Minute features
 
-- “Add to LinkedIn” button that auto-fills experience with verified Limitless credentials.
+- “Add to LinkedIn” button that auto-fills experience with verified Klados credentials.
 - “Capability Heatmap” widget embeddable on any site.
 - Version history viewer showing how the profile evolved over time.
 - Anonymous mode for job applications (hide name until interview stage).

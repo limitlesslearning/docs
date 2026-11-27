@@ -9,7 +9,7 @@ Final Draft v1.0 — Ready for Review (from Platform Bible source).
 
 ## 10.1 Security Circles (Pi-Inspired but Fully Independent)
 
-To ensure every account represents a real human being and to prevent bots, duplicates, or sock-puppet accounts at global scale, Limitless uses a Security Circle system directly inspired by Pi Network’s proven proof-of-personhood model — but built as a lightweight, open-source, non-crypto layer that does not require any token or mining.
+To ensure every account represents a real human being and to prevent bots, duplicates, or sock-puppet accounts at global scale, Klados uses a Security Circle system directly inspired by Pi Network’s proven proof-of-personhood model — but built as a lightweight, open-source, non-crypto layer that does not require any token or mining.
 
 ### How Security Circles work
 

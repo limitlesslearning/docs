@@ -9,13 +9,13 @@ Final Draft v1.0 — Ready for Review (from Platform Bible source).
 
 ## 2.1 Vision Statement
 
-The Limitless Learning Platform envisions a world where every human being, regardless of age, gender, ethnicity, financial status, family background, nationality, or prior education, can access, master, and prove mastery of any knowledge or skill at any time in their life.
+The Klados Platform envisions a world where every human being, regardless of age, gender, ethnicity, financial status, family background, nationality, or prior education, can access, master, and prove mastery of any knowledge or skill at any time in their life.
 
 Knowledge is no longer locked behind classrooms, degrees, or institutions. Instead, it becomes a single, living, interconnected global knowledge graph — a universal map of human understanding that anyone can navigate freely.
 
 We replace the question “Which school did you attend?” with the far more powerful question: “What can you do?”
 
-By 2035, Limitless will function as the universal education layer for humanity — the foundational infrastructure upon which all future learning, hiring, innovation, and personal growth is built. Education will finally be as open, borderless, and adaptable as the internet itself, while continuously evolving through community governance and real-world partnerships.
+By 2035, Klados will function as the universal education layer for humanity — the foundational infrastructure upon which all future learning, hiring, innovation, and personal growth is built. Education will finally be as open, borderless, and adaptable as the internet itself, while continuously evolving through community governance and real-world partnerships.
 
 ## 2.2 Mission Statement
 
@@ -93,7 +93,7 @@ Reputation, reviewer ranks, and advancement are earned solely through these two 
 
 ### 2.4.5 Real-World Transformation Through Partnerships
 
-In later phases, Limitless will actively integrate with independent companies, schools, and universities to provide practical, hands-on experiences (chemistry labs, engineering workshops, medical simulations, etc.) that cannot be fully replicated at home. These partners will be compensated through the ecosystem model, while learners continue to access everything at no cost. This integration will slowly transform and upgrade existing education institutions rather than replace them outright.
+In later phases, Klados will actively integrate with independent companies, schools, and universities to provide practical, hands-on experiences (chemistry labs, engineering workshops, medical simulations, etc.) that cannot be fully replicated at home. These partners will be compensated through the ecosystem model, while learners continue to access everything at no cost. This integration will slowly transform and upgrade existing education institutions rather than replace them outright.
 
 ## 2.5 Long-Term Global Impact Goals (2035 Horizon)
 
@@ -102,7 +102,7 @@ By 2035 we aim to have achieved:
 - 100 million active learners worldwide
 - At least 5,000 verified job profiles actively used by companies (generating sustainable revenue)
 - Recognition of at least 50 “Course Profiles” by governments or universities
-- Hundreds of partnered universities and companies offering free practical-lab access to Limitless learners
+- Hundreds of partnered universities and companies offering free practical-lab access to Klados learners
 - Measurable reduction in education-related inequality metrics in at least 10 countries
 - The knowledge graph containing 95%+ of undergraduate-level human knowledge with daily autonomous updates
 - A fully self-governing, autonomous community of 50,000+ contributors, reviewers, and partners

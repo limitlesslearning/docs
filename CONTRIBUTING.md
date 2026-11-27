@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for helping improve Limitless Learning documentation.
+Thank you for helping improve Klados documentation.
 
 ## Code of conduct
 
