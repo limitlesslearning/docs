@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Start a discussion
+    url: https://github.com/limitlesslearning/docs/discussions
+    about: Questions, first ideas, and the smallest first step — start here before opening an issue.
+  - name: Klados Handbook / docs site
+    url: https://limitlesslearning.github.io/docs/
+    about: Read the Handbook, roadmap, status, and the Decision log before opening an RFC.
+  - name: Security vulnerability
+    url: https://github.com/limitlesslearning/docs/security/advisories/new
+    about: Report security issues privately — do not open a public issue.

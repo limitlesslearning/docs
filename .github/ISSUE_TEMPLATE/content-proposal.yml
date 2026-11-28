@@ -1,13 +1,17 @@
 name: Content proposal
-description: Propose new or revised Platform Bible documentation
+description: Propose new or revised Klados Handbook documentation
 title: "[Content]: "
 labels: ["content"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Please [start a discussion](https://github.com/limitlesslearning/docs/discussions) first unless a maintainer asked you to open this issue. Issues are for work that has been agreed.
   - type: dropdown
     id: section
     attributes:
-      label: Related Bible section
-      description: Which Platform Bible section does this proposal affect?
+      label: Related Handbook section
+      description: Which Klados Handbook section does this proposal affect?
       options:
         - "1. Front Matter"
         - "2. Vision, Mission & Principles"
@@ -55,4 +59,6 @@ body:
         - label: I will not invent facts or numbers not supported by sources
           required: true
         - label: Open questions will be labelled as questions, not decisions
+          required: true
+        - label: I started a Discussion first, or a maintainer asked me to open this issue
           required: true

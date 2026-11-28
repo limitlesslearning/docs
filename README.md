@@ -10,7 +10,7 @@
 Public documentation site for **Klados** — a free-for-learners, open-source global knowledge graph with mastery-based progression and verifiable credentials linked to jobs.
 
 - **Live site (planned):** [https://limitlesslearning.github.io/docs/](https://limitlesslearning.github.io/docs/)
-- **Source of truth:** Platform Bible v1.0 (living draft)
+- **Source of truth:** Klados Handbook v1.0 (living draft)
 - **Built with:** [Sveltepress](https://sveltepress.site/) `@sveltepress/vite` 1.10.x + default theme
 - **Logo use:** [docs/brand/USAGE.md](./docs/brand/USAGE.md) · [Brand guide](./docs/brand/BRAND.md)
 
@@ -46,7 +46,7 @@ Build output is written to `dist/`.
 assets/brand/         # Branch Out mark and lockups
 docs/brand/           # Brand guide, logo usage, license note
 src/lib/site.ts       # Public product name (SITE_NAME)
-src/routes/           # Markdown pages (home, bible, roadmap, status, decisions, brand)
+src/routes/           # Markdown pages (home, handbook, roadmap, status, decisions, brand)
 static/               # Favicon, app icons, manifest, og-image
 vite.config.ts        # Sveltepress + default theme + static adapter
 .github/workflows/    # GitHub Pages deploy

@@ -1,0 +1,55 @@
+name: Translation offer
+description: Offer to translate the Klados Handbook, or review a translation, in your language
+title: "[Translation]: "
+labels: ["content", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Klados is in English for now. Every branch should be readable in your language, and we need native readers to get there.
+
+        The smallest first step is often a [discussion](https://github.com/limitlesslearning/docs/discussions). Use this form when you are ready to offer a language or review a page. Please do not paste a full translation into the issue until a maintainer agrees a home for it.
+  - type: input
+    id: language
+    attributes:
+      label: Language
+      description: The language you would like to offer, including the script if useful (for example, Malayalam, Hindi, Spanish).
+      placeholder: Malayalam
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What are you offering?
+      options:
+        - Check how the name Klados reads in my language
+        - Translate a Handbook or docs page
+        - Review someone else’s translation
+        - Something else (describe below)
+    validations:
+      required: true
+  - type: textarea
+    id: samples
+    attributes:
+      label: Name samples
+      description: Optional. How would you write “Klados” (KLAH-dos) in your language? For reference, the current typography samples are Malayalam ക്ലാഡോസ് and Devanagari क्लाडोस — both still need a native-reader check.
+    validations:
+      required: false
+  - type: textarea
+    id: pages
+    attributes:
+      label: Pages or sections
+      description: If you already have a page in mind, name it (for example, the Handbook vision section, the homepage, or the contributing guide).
+    validations:
+      required: false
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I can read and write this language as a native or fluent reader
+          required: true
+        - label: I started a Discussion first, or a maintainer asked me to open this issue
+          required: true
+        - label: I will license translated documentation content under CC BY-SA 4.0
+          required: true
