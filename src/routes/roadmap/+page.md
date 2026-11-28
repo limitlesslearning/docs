@@ -9,7 +9,7 @@ Klados is built in deliberate phases. The immediate focus is Phase 0 (this docum
 
 Before application code, establish the structural rules and technical foundation:
 
-- Publish and maintain the Platform Bible as the single source of truth.
+- Publish and maintain the Klados Handbook as the single source of truth.
 - Initialize the chosen environment (SvelteKit, Bun, ElysiaJS, SurrealDB) as documented in Section 12 (still needs drafting).
 - Define the SurrealDB schema for the knowledge graph and version-control AI prompts (“Evidence-First Standard”) for content ingestion and exam generation.
 
@@ -55,5 +55,5 @@ Immediate focus should stay on Phase 1: graph database, AI ingestion/assessment,
 
 ## Related
 
-- [Section 14 stub](/bible/roadmap-phases/) — detailed milestones and exit criteria still need drafting
+- [Section 14 stub](/handbook/roadmap-phases/) — detailed milestones and exit criteria still need drafting
 - [Status dashboard](/status/)

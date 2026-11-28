@@ -5,9 +5,9 @@ badge:
   text: 'Phase 0 — Documentation'
   link: /roadmap/
 actions:
-  - label: Read the Platform Bible
+  - label: Read the Klados Handbook
     type: primary
-    to: /bible/vision-mission-principles/
+    to: /handbook/vision-mission-principles/
   - label: Contribute on GitHub
     type: flat
     to: https://github.com/limitlesslearning/docs
@@ -19,42 +19,42 @@ features:
       type: iconify
       collection: material-symbols
       name: lock-open-outline
-    link: /bible/vision-mission-principles/
+    link: /handbook/vision-mission-principles/
   - title: Global knowledge graph
     description: Every concept is a mastery node with explicit prerequisites. No siloed courses — one living map of human knowledge.
     icon:
       type: iconify
       collection: material-symbols
       name: account-tree-outline
-    link: /bible/knowledge-graph/
+    link: /handbook/knowledge-graph/
   - title: Competency-based progression
     description: Advance only when you prove mastery (90%+ threshold). No age gates, no seat-time requirements, no arbitrary deadlines.
     icon:
       type: iconify
       collection: material-symbols
       name: school-outline
-    link: /bible/assessment/
+    link: /handbook/assessment/
   - title: Verifiable credentials
     description: JSON-LD credentials with blockchain snapshots replace pedigree with proof of what you can do.
     icon:
       type: iconify
       collection: material-symbols
       name: verified-outline
-    link: /bible/credentials/
+    link: /handbook/credentials/
   - title: Linked to real jobs
     description: Company-defined Job Profiles match verified mastery levels to hiring needs — skills-first, not résumé-first.
     icon:
       type: iconify
       collection: material-symbols
       name: work-outline
-    link: /bible/credentials/
+    link: /handbook/credentials/
   - title: Open & community-governed
     description: Open-source infrastructure, auditable history, and community review so the platform can evolve without stagnation.
     icon:
       type: iconify
       collection: material-symbols
       name: groups-outline
-    link: /bible/verification/
+    link: /handbook/verification/
 ---
 
 ## Vision
@@ -75,14 +75,14 @@ We replace the question “Which school did you attend?” with: **“What can y
 
 ## Start here
 
-- [Vision, Mission & Principles](/bible/vision-mission-principles/) — why the platform exists
-- [Problems in traditional education](/bible/problems/) — the structural failures we address
-- [Our solution](/bible/solution/) — the graph paradigm and unique combination
+- [Vision, Mission & Principles](/handbook/vision-mission-principles/) — why the platform exists
+- [Problems in traditional education](/handbook/problems/) — the structural failures we address
+- [Our solution](/handbook/solution/) — the graph paradigm and unique combination
 - [Development roadmap](/roadmap/) — Phase 0 through Phase 4
-- [Documentation status](/status/) — which Bible sections are drafted
+- [Documentation status](/status/) — which Handbook sections are drafted
 - [Decision log](/decisions/) — locked project decisions
 - [Brand guide](/brand/) — the Branch Out mark and how to use it
 
 :::note[About this site]
-This documentation is the public Platform Bible for Klados (v1.0 living draft). Site **code** is MIT; documentation **content** is [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). See [LICENSE](https://github.com/limitlesslearning/docs/blob/main/LICENSE) and [LICENSE-CONTENT](https://github.com/limitlesslearning/docs/blob/main/LICENSE-CONTENT).
+This documentation is the public Klados Handbook (v1.0 living draft). This site’s **code** is MIT; documentation **content** is [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The platform server is AGPL-3.0 and the SDKs are MIT — see the [decision log](/decisions/) (Q9). See also [LICENSE](https://github.com/limitlesslearning/docs/blob/main/LICENSE) and [LICENSE-CONTENT](https://github.com/limitlesslearning/docs/blob/main/LICENSE-CONTENT).
 :::
